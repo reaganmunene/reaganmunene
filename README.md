@@ -84,8 +84,8 @@ Checkout my daily routine!🌞
 - [Editor 1]           [Hours]        [Percentage]
 - [Editor 2]                  [Hours]             [Percentage]
 
-💻 Operating System: -->
-- [OS]                    [Hours]       [Percentage]
+<!-- 💻 Operating System: -->
+<!-- - [OS]                    [Hours]       [Percentage]
 
 ### I Mostly Code in [Python]
 
@@ -96,9 +96,9 @@ Checkout my daily routine!🌞
 _Last Updated on [Date]_
 
 ### Recent Contributions ⏰
-- **[Contribution 1]** - Description of the contribution.
-- **[Contribution 2]** - Description of the contribution.
-- ...
+- **[Contribution 1]** - Description of the contribution. -->
+<!-- - **[Contribution 2]** - Description of the contribution. -->
+- ... -->
 
 <!-- ### Libraries & Tools 🔨
 I am big on developer tools and improving Software Engineers' lives. I write a lot of internal tools for where I work, however, I also have several open-source tools that you can utilize in your projects:
@@ -107,7 +107,7 @@ I am big on developer tools and improving Software Engineers' lives. I write a l
 - **[Library/Tool 2]** - Description of the library/tool.
 - ... -->
 
-
+<!-- 
 ### Other Contributions 🔖
 When I am not writing Python, I write Ruby. Checkout the following:
 
@@ -118,7 +118,7 @@ When I am not writing Python, I write Ruby. Checkout the following:
 ### Pinned Projects
 - **[Project 1]** - Description of the project.
 - **[Project 2]** - Description of the project.
-- ...
+- ... -->
 
 ### Contribution Graph
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=reaganmunene)
