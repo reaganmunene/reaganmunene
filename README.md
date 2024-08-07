@@ -100,14 +100,6 @@ I am a big sucker for developer tools and improving Software Engineers' lives. I
 - **[MkDocs](https://www.mkdocs.org/)**: A static site generator for project documentation.
 
 
-#### 💬 Programming Languages
-| Language       | Hours   | Percentage |
-|----------------|---------|------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) | ![Hours](https://img.shields.io/badge/hours-10h-yellow) | ![Percentage](https://img.shields.io/badge/percentage-50%25-green) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) | ![Hours](https://img.shields.io/badge/hours-5h-yellow) | ![Percentage](https://img.shields.io/badge/percentage-25%25-green) |
-| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white) | ![Hours](https://img.shields.io/badge/hours-5h-yellow) | ![Percentage](https://img.shields.io/badge/percentage-25%25-green) |
-
-
 
 #### 🔥 Editors
 | Editor        | Hours   | Percentage |
@@ -170,6 +162,16 @@ When I am not writing Python, I write Ruby. Checkout the following:
 
 <!-- ### Activity overview
 ![Activity overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reaganmunene&theme=vue) -->
+
+
+#### 💬 Programming Languages
+| Language       | Hours   | Percentage |
+|----------------|---------|------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) | ![Hours](https://img.shields.io/badge/hours-10h-yellow) | ![Percentage](https://img.shields.io/badge/percentage-50%25-green) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) | ![Hours](https://img.shields.io/badge/hours-5h-yellow) | ![Percentage](https://img.shields.io/badge/percentage-25%25-green) |
+| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white) | ![Hours](https://img.shields.io/badge/hours-5h-yellow) | ![Percentage](https://img.shields.io/badge/percentage-25%25-green) |
+
+
 
 ### 😀
 ![Jokes Card](https://readme-jokes.vercel.app/api)
