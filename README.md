@@ -118,7 +118,7 @@ _Last Updated on [Date]_
 ### Recent Contributions ⏰
 - **[Contribution 1]** - Description of the contribution. -->
 <!-- - **[Contribution 2]** - Description of the contribution. -->
-- ... -->
+
 
 ### Libraries & Tools 🔨
 I am a big sucker for developer tools and improving Software Engineers' lives. I research a lot of internal tools for to this end and have several open-source tools that you can utilize in your projects:
