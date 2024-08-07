@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 
 # Howdie, Folks! 👋🤓
 🤪 I am Reagan Munene
-📱 I have much ❤️ for all forms of software development.
+<!-- 📱 I have much ❤️ for all forms of software development. -->
+## 👋 Hello, I'm [Your Name]
+
+I’m an aspiring Software Engineer specializing in front-end applications. Currently, I am not working since I am a full-time law student at Strathmore University. However, for hobby projects and inquiries feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/reagan-munene-muthomi/)
+
 📈 This is what I have been doing:
 
 ### Skills and Tools
@@ -28,6 +32,17 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+
+## 🛠️ Skills and Technologies
+
+- **Languages**: Python, JavaScript, Ruby
+- **Frameworks**: Django, React, Spring , Redux
+- **Tools**: Git
+- **Databases**: MySQL, MongoDB, PostgreSQL
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+
 
 ### 🌞 Daily Routine
 
@@ -53,6 +68,11 @@ Checkout my daily routine!🌞
 
 #### 🕑 Time Zone
 ![Time Zone](https://img.shields.io/badge/GMT+3-blue)
+
+## 🔍 Activity Overview
+
+![Activity Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reaganmunene&theme=vue)
+
 
 #### 💬 Programming Languages
 | Language       | Hours   | Percentage |
@@ -107,7 +127,7 @@ I am big on developer tools and improving Software Engineers' lives. I write a l
 - **[Library/Tool 2]** - Description of the library/tool.
 - ... -->
 
-<!-- 
+<!--
 ### Other Contributions 🔖
 When I am not writing Python, I write Ruby. Checkout the following:
 
@@ -128,3 +148,7 @@ When I am not writing Python, I write Ruby. Checkout the following:
 
 ### Fun Section
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## 🧩 Fun Fact😆
+
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
