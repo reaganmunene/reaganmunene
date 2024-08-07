@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 📱 I have much ❤️ for all forms of software development.
 📈 This is what I have been doing:
 
+### Skills and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+
 ### Lines of code
 
 Checkout my daily routine!🌞
@@ -89,8 +95,5 @@ When I am not writing [Primary Language], I write [Secondary Language]. Checkout
 ### Activity overview
 ![Activity overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reaganmunene&theme=vue)
 
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reaganmunene&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reaganmunene&layout=compact&theme=radical)
- -->
+### Fun Section
+![Jokes Card](https://readme-jokes.vercel.app/api)
