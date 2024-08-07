@@ -85,7 +85,7 @@ Checkout my daily routine!🌞
 
 
 ### Libraries & Tools 🔨
-I am a big sucker for developer tools and improving Software Engineers' lives. I research a lot of internal tools for to this end and have several open-source tools that you can utilize in your projects:
+I am a big sucker for developer tools and improving Software Engineers' lives. I research a lot of internal tools to this end and have several open-source tools that you can utilize in your projects:
 
 #### **Testing Frameworks**
 - **[JUnit](https://junit.org/junit5/)**: A widely-used testing framework for Java applications.
