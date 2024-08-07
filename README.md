@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd6NXI1dTF6N282Njc5bDE3dDM0Ym1mZml4N2RoZW9kcHU2bGlzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bMJqfOtgVEyI2PLnaW/giphy.gif" width="100"/>
+</div>
+
 # Howdie, Folks! 👋🤓
 🤪 I am Reagan Munene
 📱 I have much ❤️ for all forms of software development.
@@ -36,7 +40,7 @@ Checkout my daily routine!🌞
 
 ### 📊 This Week I Spent My Time On
 
-🕑 Time Zone: [Your Time Zone]
+🕑 Time Zone: [(GMT+3)]
 
 💬 Programming Languages:
 - [Python]                   [Hours]       [Percentage]
@@ -63,24 +67,18 @@ _Last Updated on [Date]_
 - **[Contribution 2]** - Description of the contribution.
 - ...
 
-### Libraries & Tools 🔨
+<!-- ### Libraries & Tools 🔨
 I am big on developer tools and improving Software Engineers' lives. I write a lot of internal tools for where I work, however, I also have several open-source tools that you can utilize in your projects:
 
 - **[Library/Tool 1]** - Description of the library/tool.
 - **[Library/Tool 2]** - Description of the library/tool.
-- ...
+- ... -->
 
-### Courses 🖥️
-I like creating courses for [Specialization]. Here are some featured courses:
-
-- **[Course 1]** - Description of the course.
-- **[Course 2]** - Description of the course.
-- ...
 
 ### Other Contributions 🔖
-When I am not writing [Primary Language], I write [Secondary Language]. Checkout the following:
+When I am not writing Python, I write Ruby. Checkout the following:
 
-- **[Contribution 1]** - Description of the contribution.
+- **[]** - Description of the contribution.
 - **[Contribution 2]** - Description of the contribution.
 - ...
 
