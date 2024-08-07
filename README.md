@@ -120,12 +120,28 @@ _Last Updated on [Date]_
 <!-- - **[Contribution 2]** - Description of the contribution. -->
 - ... -->
 
-<!-- ### Libraries & Tools 🔨
-I am big on developer tools and improving Software Engineers' lives. I write a lot of internal tools for where I work, however, I also have several open-source tools that you can utilize in your projects:
+### Libraries & Tools 🔨
+I am a big sucker for developer tools and improving Software Engineers' lives. I research a lot of internal tools for to this end and have several open-source tools that you can utilize in your projects:
 
-- **[Library/Tool 1]** - Description of the library/tool.
-- **[Library/Tool 2]** - Description of the library/tool.
-- ... -->
+#### **Testing Frameworks**
+- **[JUnit](https://junit.org/junit5/)**: A widely-used testing framework for Java applications.
+- **[pytest](https://docs.pytest.org/en/latest/)**: A framework for writing simple and scalable test cases in Python.
+
+#### **Continuous Integration/Continuous Deployment (CI/CD)**
+- **[Jenkins](https://www.jenkins.io/)**: An open-source automation server for building, deploying, and automating projects.
+- **[GitLab CI](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)**: A robust CI/CD tool integrated with GitLab for automating pipelines.
+
+#### **Code Quality and Analysis**
+- **[SonarQube](https://www.sonarqube.org/)**: An open-source platform for continuous inspection of code quality.
+- **[ESLint](https://eslint.org/)**: A tool for identifying and fixing problems in JavaScript code.
+
+#### **Testing Frameworks**
+- **[JUnit](https://junit.org/junit5/)**: A widely-used testing framework for Java applications.
+- **[pytest](https://docs.pytest.org/en/latest/)**: A framework for writing simple and scalable test cases in Python.
+
+#### **Documentation**
+- **[Swagger](https://swagger.io/)**: A tool for designing, building, and documenting APIs.
+- **[MkDocs](https://www.mkdocs.org/)**: A static site generator for project documentation.
 
 <!--
 ### Other Contributions 🔖
