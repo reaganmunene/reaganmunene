@@ -76,14 +76,6 @@ Checkout my daily routine!🌞
 
 
 
-#### 💬 Programming Languages
-| Language       | Hours   | Percentage |
-|----------------|---------|------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) | ![Hours](https://img.shields.io/badge/hours-10h-yellow) | ![Percentage](https://img.shields.io/badge/percentage-50%25-green) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) | ![Hours](https://img.shields.io/badge/hours-5h-yellow) | ![Percentage](https://img.shields.io/badge/percentage-25%25-green) |
-| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white) | ![Hours](https://img.shields.io/badge/hours-5h-yellow) | ![Percentage](https://img.shields.io/badge/percentage-25%25-green) |
-
-
 ### Libraries & Tools 🔨
 I am a big sucker for developer tools and improving Software Engineers' lives. I research a lot of internal tools for to this end and have several open-source tools that you can utilize in your projects:
 
@@ -106,6 +98,15 @@ I am a big sucker for developer tools and improving Software Engineers' lives. I
 #### **Documentation**
 - **[Swagger](https://swagger.io/)**: A tool for designing, building, and documenting APIs.
 - **[MkDocs](https://www.mkdocs.org/)**: A static site generator for project documentation.
+
+
+#### 💬 Programming Languages
+| Language       | Hours   | Percentage |
+|----------------|---------|------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) | ![Hours](https://img.shields.io/badge/hours-10h-yellow) | ![Percentage](https://img.shields.io/badge/percentage-50%25-green) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) | ![Hours](https://img.shields.io/badge/hours-5h-yellow) | ![Percentage](https://img.shields.io/badge/percentage-25%25-green) |
+| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white) | ![Hours](https://img.shields.io/badge/hours-5h-yellow) | ![Percentage](https://img.shields.io/badge/percentage-25%25-green) |
+
 
 
 #### 🔥 Editors
