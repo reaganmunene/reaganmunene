@@ -27,7 +27,7 @@ I am an upcoming Software Engineer specializing in front-end applications. Curre
 
 📈 This is what I have been doing:
 
-### Pinned (school) Projects⏰
+### A glance at some of my (school) Projects⏰
 - **[IP Locator] (https://reaganmunene.github.io/phase-1-indepent-project/)** - IP LOCATOR is a sleek web app that effortlessly pinpoints your location using Wi-Fi. Powered by Leaflet and a public API, it instantly displays your position on an interactive map. Perfect for adding location-based features to your site or simply exploring where you are! 🌍
 
 - **[Film Findr] (https://grp7-film-findr.netlify.app/)** - FILM FINDR is your go-to destination for streaming movies and series. When you visit, you'll find a curated homepage featuring a wide selection of titles ready to watch. Looking for something specific? Use the search bar to quickly find your favorite movies and access them instantly if they’re available. Enjoy seamless browsing and streaming all in one place! 🍿🎬.
