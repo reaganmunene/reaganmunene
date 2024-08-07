@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 </div>
 
 # Howdie, Folks! 👋🤓
-🤪 I am Reagan Munene
+<!-- 🤪 I am Reagan Munene -->
 <!-- 📱 I have much ❤️ for all forms of software development. -->
-## 👋 Hello, I'm [Your Name]
+## 👋 My name is Reagan Munene
 
 I’m an aspiring Software Engineer specializing in front-end applications. Currently, I am not working since I am a full-time law student at Strathmore University. However, for hobby projects and inquiries feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/reagan-munene-muthomi/)
 
