@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- 📱 I have much ❤️ for all forms of software development. -->
 ## 👋 My name is Reagan Munene
 
-I am an upcoming Software Engineer specializing in front-end applications. Currently, I am not working since I am a full-time law student at Strathmore University. However, for hobby projects and inquiries feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/reagan-munene-muthomi/)
+I am an upcoming Software Engineer specializing in front-end applications. Currently, I am not working since I am a full-time law student at Strathmore University. However, for hobby projects and inquiries feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/reagan-munene-muthomi/).
 
 📈 This is what I have been doing:
 
@@ -101,7 +101,7 @@ I am a big sucker for developer tools and improving Software Engineers' lives. I
 
 
 
-#### 🔥 Editors
+#### 👨🏾‍💻 Editors
 | Editor        | Hours   | Percentage |
 |---------------|---------|------------|
 | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white) | ![Hours](https://img.shields.io/badge/hours-15h-blue) | ![Percentage](https://img.shields.io/badge/percentage-75%25-green) |
