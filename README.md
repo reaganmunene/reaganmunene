@@ -143,8 +143,8 @@ When I am not writing Python, I write Ruby. Checkout the following:
 ### Contribution Graph
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=reaganmunene)
 
-### Activity overview
-![Activity overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reaganmunene&theme=vue)
+<!-- ### Activity overview
+![Activity overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reaganmunene&theme=vue) -->
 
 ### 😀
 ![Jokes Card](https://readme-jokes.vercel.app/api)
