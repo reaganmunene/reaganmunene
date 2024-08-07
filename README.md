@@ -18,12 +18,12 @@ Here are some ideas to get you started:
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRxeXIxMm5zbW5mMTNubTc5OWtpb3R6NjNjaDQyNzZ3M3Q0NzgxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/20MpBrOxEphSS98hS2/giphy.gif" width="500"/>
 </div>
 
-# Howdie, Folks! 👋🤓
+# Howdie, Folks!🤓
 <!-- 🤪 I am Reagan Munene -->
 <!-- 📱 I have much ❤️ for all forms of software development. -->
 ## 👋 My name is Reagan Munene
 
-I’m an aspiring Software Engineer specializing in front-end applications. Currently, I am not working since I am a full-time law student at Strathmore University. However, for hobby projects and inquiries feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/reagan-munene-muthomi/)
+I am an upcoming Software Engineer specializing in front-end applications. Currently, I am not working since I am a full-time law student at Strathmore University. However, for hobby projects and inquiries feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/reagan-munene-muthomi/)
 
 📈 This is what I have been doing:
 
@@ -35,7 +35,7 @@ I’m an aspiring Software Engineer specializing in front-end applications. Curr
 
 ## 🛠️ Skills and Technologies
 
-- **Languages**: Python, JavaScript, Ruby
+- **Languages**: Python, JavaScript, Ruby , HTML, CSS
 - **Frameworks**: Django, React, Spring , Redux
 - **Tools**: Git
 - **Databases**: MySQL, MongoDB, PostgreSQL
@@ -146,7 +146,7 @@ When I am not writing Python, I write Ruby. Checkout the following:
 ### Activity overview
 ![Activity overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reaganmunene&theme=vue)
 
-### Fun Section
+### 😀
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 🧩 Fun Fact😆
