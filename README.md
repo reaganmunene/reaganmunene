@@ -27,6 +27,14 @@ I am an upcoming Software Engineer specializing in front-end applications. Curre
 
 📈 This is what I have been doing:
 
+### Pinned (school) Projects⏰
+- **[IP Locator] (https://reaganmunene.github.io/phase-1-indepent-project/)** - IP LOCATOR is a web app designed to display the location of a user accessing the website using Wi-Fi. It utilises leaflet, a public API, to show the user's location on a map.
+
+- **[Film Findr] (https://grp7-film-findr.netlify.app/)** - FILM FINDR is a website that provides users with a catalogue of Movies & series to stream online. Upon loading, a user is taken to a homepage where a list of movies available for watching is rendered. The site also has a search bar where one can search for a particular movie and directed to the results of the same, if the movie is available on the server.
+
+- **[Python CLI & ORM app] (https://github.com/reaganmunene/reagan-munene-phase3project)** - This is a Python CLI application built using SQLAlchemy ORM. It allows users to interact with a SQLite database through a command-line Interface (CLI). The application defines two ORM models, Parent and Child, representing a one-to-many relationship between parents and their children where users can perform various operations on the database using CLI commands, including creating parent records, listing all parent records, and more.
+
+
 ### Skills and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
@@ -149,12 +157,6 @@ When I am not writing Python, I write Ruby. Checkout the following:
 - ...
 
 <!-- <!-- -->
-### Pinned (school) Projects⏰
-- **[IP Locator] (https://reaganmunene.github.io/phase-1-indepent-project/)** - IP LOCATOR is a web app designed to display the location of a user accessing the website using Wi-Fi. It utilises leaflet, a public API, to show the user's location on a map.
-
-- **[Film Findr] (https://grp7-film-findr.netlify.app/)** - FILM FINDR is a website that provides users with a catalogue of Movies & series to stream online. Upon loading, a user is taken to a homepage where a list of movies available for watching is rendered. The site also has a search bar where one can search for a particular movie and directed to the results of the same, if the movie is available on the server.
-
-- **[Python CLI & ORM app] (https://github.com/reaganmunene/reagan-munene-phase3project)** - This is a Python CLI application built using SQLAlchemy ORM. It allows users to interact with a SQLite database through a command-line Interface (CLI). The application defines two ORM models, Parent and Child, representing a one-to-many relationship between parents and their children where users can perform various operations on the database using CLI commands, including creating parent records, listing all parent records, and more.
 
 
 ### Contribution Graph
