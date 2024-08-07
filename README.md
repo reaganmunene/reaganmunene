@@ -83,6 +83,31 @@ Checkout my daily routine!🌞
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) | ![Hours](https://img.shields.io/badge/hours-5h-yellow) | ![Percentage](https://img.shields.io/badge/percentage-25%25-green) |
 | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white) | ![Hours](https://img.shields.io/badge/hours-5h-yellow) | ![Percentage](https://img.shields.io/badge/percentage-25%25-green) |
 
+
+### Libraries & Tools 🔨
+I am a big sucker for developer tools and improving Software Engineers' lives. I research a lot of internal tools for to this end and have several open-source tools that you can utilize in your projects:
+
+#### **Testing Frameworks**
+- **[JUnit](https://junit.org/junit5/)**: A widely-used testing framework for Java applications.
+- **[pytest](https://docs.pytest.org/en/latest/)**: A framework for writing simple and scalable test cases in Python.
+
+#### **Continuous Integration/Continuous Deployment (CI/CD)**
+- **[Jenkins](https://www.jenkins.io/)**: An open-source automation server for building, deploying, and automating projects.
+- **[GitLab CI](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)**: A robust CI/CD tool integrated with GitLab for automating pipelines.
+
+#### **Code Quality and Analysis**
+- **[SonarQube](https://www.sonarqube.org/)**: An open-source platform for continuous inspection of code quality.
+- **[ESLint](https://eslint.org/)**: A tool for identifying and fixing problems in JavaScript code.
+
+#### **Testing Frameworks**
+- **[JUnit](https://junit.org/junit5/)**: A widely-used testing framework for Java applications.
+- **[pytest](https://docs.pytest.org/en/latest/)**: A framework for writing simple and scalable test cases in Python.
+
+#### **Documentation**
+- **[Swagger](https://swagger.io/)**: A tool for designing, building, and documenting APIs.
+- **[MkDocs](https://www.mkdocs.org/)**: A static site generator for project documentation.
+
+
 #### 🔥 Editors
 | Editor        | Hours   | Percentage |
 |---------------|---------|------------|
@@ -121,29 +146,6 @@ _Last Updated on [Date]_
 - **[Contribution 1]** - Description of the contribution. -->
 <!-- - **[Contribution 2]** - Description of the contribution. -->
 
-
-### Libraries & Tools 🔨
-I am a big sucker for developer tools and improving Software Engineers' lives. I research a lot of internal tools for to this end and have several open-source tools that you can utilize in your projects:
-
-#### **Testing Frameworks**
-- **[JUnit](https://junit.org/junit5/)**: A widely-used testing framework for Java applications.
-- **[pytest](https://docs.pytest.org/en/latest/)**: A framework for writing simple and scalable test cases in Python.
-
-#### **Continuous Integration/Continuous Deployment (CI/CD)**
-- **[Jenkins](https://www.jenkins.io/)**: An open-source automation server for building, deploying, and automating projects.
-- **[GitLab CI](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)**: A robust CI/CD tool integrated with GitLab for automating pipelines.
-
-#### **Code Quality and Analysis**
-- **[SonarQube](https://www.sonarqube.org/)**: An open-source platform for continuous inspection of code quality.
-- **[ESLint](https://eslint.org/)**: A tool for identifying and fixing problems in JavaScript code.
-
-#### **Testing Frameworks**
-- **[JUnit](https://junit.org/junit5/)**: A widely-used testing framework for Java applications.
-- **[pytest](https://docs.pytest.org/en/latest/)**: A framework for writing simple and scalable test cases in Python.
-
-#### **Documentation**
-- **[Swagger](https://swagger.io/)**: A tool for designing, building, and documenting APIs.
-- **[MkDocs](https://www.mkdocs.org/)**: A static site generator for project documentation.
 
 <!--
 ### Other Contributions 🔖
