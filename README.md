@@ -28,11 +28,11 @@ I am an upcoming Software Engineer specializing in front-end applications. Curre
 📈 This is what I have been doing:
 
 ### Pinned (school) Projects⏰
-- **[IP Locator] (https://reaganmunene.github.io/phase-1-indepent-project/)** - IP LOCATOR is a web app designed to display the location of a user accessing the website using Wi-Fi. It utilises leaflet, a public API, to show the user's location on a map.
+- **[IP Locator] (https://reaganmunene.github.io/phase-1-indepent-project/)** - IP LOCATOR is a sleek web app that effortlessly pinpoints your location using Wi-Fi. Powered by Leaflet and a public API, it instantly displays your position on an interactive map. Perfect for adding location-based features to your site or simply exploring where you are! 🌍
 
-- **[Film Findr] (https://grp7-film-findr.netlify.app/)** - FILM FINDR is a website that provides users with a catalogue of Movies & series to stream online. Upon loading, a user is taken to a homepage where a list of movies available for watching is rendered. The site also has a search bar where one can search for a particular movie and directed to the results of the same, if the movie is available on the server.
+- **[Film Findr] (https://grp7-film-findr.netlify.app/)** - FILM FINDR is your go-to destination for streaming movies and series. When you visit, you'll find a curated homepage featuring a wide selection of titles ready to watch. Looking for something specific? Use the search bar to quickly find your favorite movies and access them instantly if they’re available. Enjoy seamless browsing and streaming all in one place! 🍿🎬.
 
-- **[Python CLI & ORM app] (https://github.com/reaganmunene/reagan-munene-phase3project)** - This is a Python CLI application built using SQLAlchemy ORM. It allows users to interact with a SQLite database through a command-line Interface (CLI). The application defines two ORM models, Parent and Child, representing a one-to-many relationship between parents and their children where users can perform various operations on the database using CLI commands, including creating parent records, listing all parent records, and more.
+- **[Python CLI & ORM app] (https://github.com/reaganmunene/reagan-munene-phase3project)** - This Python CLI app leverages SQLAlchemy ORM to simplify database management with SQLite. Through an intuitive command-line interface, users can effortlessly manage records in a one-to-many relationship between parents and children. Perform operations like creating and listing parent records with just a few commands, making database interactions quick and easy. 🖥️📊
 
 
 ### Skills and Tools
