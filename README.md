@@ -83,13 +83,14 @@ When I am not writing [Primary Language], I write [Secondary Language]. Checkout
 - **[Project 2]** - Description of the project.
 - ...
 
-<!-- ### Contribution Graph
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=username)
+### Contribution Graph
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=reaganmunene)
 
 ### Activity overview
-![Activity overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username&theme=vue) -->
+![Activity overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reaganmunene&theme=vue)
 
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reaganmunene&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reaganmunene&layout=compact&theme=radical)
-
+ -->
