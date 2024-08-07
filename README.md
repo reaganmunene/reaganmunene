@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- 📱 I have much ❤️ for all forms of software development. -->
 ## 👋 My name is Reagan Munene
 
-I am an upcoming Software Engineer specializing in front-end applications. Currently, I am not working since I am a full-time law student at Strathmore University. However, for hobby projects and inquiries feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/reagan-munene-muthomi/).
+I am an upcoming Full-Stack Software Engineer specializing in front-end applications. Currently, I am not working since I am a full-time law student at Strathmore University. However, for hobby projects and inquiries feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/reagan-munene-muthomi/).
 
 📈 This is what I have been doing:
 
